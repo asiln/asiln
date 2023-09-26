@@ -36,7 +36,7 @@ You can reach me through the following channels:
 - Kaggle: [asilnasiri](https://www.kaggle.com/asilnasiri)
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/asiln)
+[![GitHub](https://img.shields.io/github/followers/asiln?label=Follow&style=social)](https://github.com/asiln)
 [![Twitter](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/asil_nasiri)
 
 Feel free to explore my projects, contribute, and connect with me. Thanks for visiting my GitHub profile! 😊
