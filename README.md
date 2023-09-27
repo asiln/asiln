@@ -28,17 +28,21 @@ to power the Recipe Generator app built in React Native and **FastAPI**. An adde
 ## 📫 Contact Me
 
 You can reach me through the following channels:
+<br>
 
-- Email: [your.email@example.com](mailto:asilnasiri@outlook.com)
-- LinkedIn: <a href="https://www.linkedin.com/in/asiln/" style="border-radius: 8px"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-- Twitter: [@asil_nasiri](https://twitter.com/asil_nasiri)
-- Instagram: [asil_bastaki](https://www.instagram.com/asil_bastaki/)
-- Kaggle: [asilnasiri](https://www.kaggle.com/asilnasiri)
+<a href="https://asilnasiri.webflow.io"><img src="https://img.shields.io/badge/mywebsite-ffffff?style=for-the-badge&logo=website&logoColor=black"></a>
+<a href="mailto:asilnasiri@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/asiln/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/github/followers/asiln?label=Follow&style=social)](https://github.com/asiln)
-[![Twitter](https://img.shields.io/twitter/follow/asil_nasiri?style=social)](https://twitter.com/asil_nasiri)
-
+<!--[![Twitter](https://img.shields.io/twitter/follow/asil_nasiri?style=social)](https://twitter.com/asil_nasiri) -->
+<a href="https://www.instagram.com/asil_bastaki/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/asil_nasiri"><img src="https://img.shields.io/badge/X(twitter)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://www.kaggle.com/asilnasiri"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<br>
 Feel free to explore my projects, contribute, and connect with me. Thanks for visiting my GitHub profile! 😊
 
 <!--
