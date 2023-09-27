@@ -28,9 +28,9 @@ to power the Recipe Generator app built in React Native and **FastAPI**. An adde
 ## 📫 Contact Me
 
 You can reach me through the following channels:
-<a href="https://www.linkedin.com/in/asiln/" style="border-radius: 8px"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 - Email: [your.email@example.com](mailto:asilnasiri@outlook.com)
-- LinkedIn: [Asil Nasiri](https://www.linkedin.com/in/asiln/)
+- LinkedIn: <a href="https://www.linkedin.com/in/asiln/" style="border-radius: 8px"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - Twitter: [@asil_nasiri](https://twitter.com/asil_nasiri)
 - Instagram: [asil_bastaki](https://www.instagram.com/asil_bastaki/)
 - Kaggle: [asilnasiri](https://www.kaggle.com/asilnasiri)
