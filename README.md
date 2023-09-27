@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=asiln&color=blueviolet)
-<a href="https://www.linkedin.com/in/asiln/" style="border-radius: 8px"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 ## About Me
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to code and explore new technologies. Here you'll find a collection of my projects, contributions, and some cool widgets to make my profile stand out.
@@ -28,7 +28,7 @@ to power the Recipe Generator app built in React Native and **FastAPI**. An adde
 ## 📫 Contact Me
 
 You can reach me through the following channels:
-
+<a href="https://www.linkedin.com/in/asiln/" style="border-radius: 8px"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - Email: [your.email@example.com](mailto:asilnasiri@outlook.com)
 - LinkedIn: [Asil Nasiri](https://www.linkedin.com/in/asiln/)
 - Twitter: [@asil_nasiri](https://twitter.com/asil_nasiri)
